@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "[project-name]admin",
+    "database": "[project-name]_main",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "superSecret": "[project-name]2021"
+  },
+  "test": {
+    "username": "admin",
+    "password": "[project-name]admin",
+    "database": "[project-name]_main",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "superSecret": "[project-name]2021"
+  },
+  "production": {
+   "username": "admin",
+    "password": "[project-name]admin",
+    "database": "[project-name]_main",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "superSecret": "[project-name]2021"
+  }
+}
